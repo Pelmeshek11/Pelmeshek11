@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pelmeshek11
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java, python, rust
-- 💞️ I’m looking to collaborate 
+ 
 - 📫 How to reach me ...
 - 😄 Pronouns: I, he
 - ⚡ Fun fact: ...
