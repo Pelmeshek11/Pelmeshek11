@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pelmeshek11
+- 👋 Hi, I’m @CookieCompiler or in Telegram I am @TimoffeevProd
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java, python, rust
+- 🌱 I’m currently learning python, rust
  
 - 📫 How to reach me ...
 - 😄 Pronouns: I, he
